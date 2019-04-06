@@ -1,0 +1,14 @@
+tamanho--------- valor-- tempo
+pequena          20,00      15
+media            30,00      20
+grande           40,00      25
+
+sabor----------- valor-- tempo
+calabresa         0,00      00
+marguerita        0,00      00
+portuguesa        0,00      05
+
+personalização-- valor-- tempo
+extra bacon       3,00      00
+sem cebola        0,00      00
+borda recheada    5,00      05
